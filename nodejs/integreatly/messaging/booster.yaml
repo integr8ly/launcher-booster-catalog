@@ -8,4 +8,4 @@ description: Demonstrate how to use a Messaging Work Queue from a Node.js applic
 source:
   git:
     url: https://github.com/integr8ly/nodejs-messaging-work-queue
-    ref: deploy_frontend_only
+    ref: fruit_stock
