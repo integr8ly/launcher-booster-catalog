@@ -8,8 +8,8 @@ environment:
   staging:
     source:
       git:
-        ref: v7.0.1
+        ref: add-aggregation-to-endpoint
   production:
     source:
       git:
-        ref: v7.0.1
+        ref: add-aggregation-to-endpoint
