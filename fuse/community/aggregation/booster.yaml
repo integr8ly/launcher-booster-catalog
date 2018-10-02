@@ -1,0 +1,15 @@
+name: Red Hat Fuse - Aggregation Example
+description: Booster to expose an HTTP REST endpoint using Apache Camel where the message aggregated from 2 services.
+source:
+  git:
+    url: https://github.com/david-martin/fuse-rest-http-booster
+    ref: add-aggregation-to-endpoint
+environment:
+  staging:
+    source:
+      git:
+        ref: v7.0.1
+  production:
+    source:
+      git:
+        ref: v7.0.1
