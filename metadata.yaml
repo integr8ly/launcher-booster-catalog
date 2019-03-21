@@ -4,6 +4,11 @@ missions:
   description: Use a cache to improve the response time of applications
   metadata:
     level: advanced
+- id: aggregation
+  name: Aggregation
+  description: Aggregate data from 2 services.
+  metadata:
+    level: foundational    
 - id: circuit-breaker
   name: Circuit Breaker
   description: Report the failure of a service and then limit access to the failed
