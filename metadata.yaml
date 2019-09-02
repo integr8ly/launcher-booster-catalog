@@ -124,7 +124,7 @@ runtimes:
       - id: community
         name: 2.21.2 (Community)
       - id: redhat
-        name: 7.3.0 (Red Hat Fuse)
+        name: 7.4.0 (Red Hat Fuse)
   - id: nodejs
     name: Node.js
     description: >-
